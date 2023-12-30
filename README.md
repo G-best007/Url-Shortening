@@ -20,8 +20,8 @@ The shortened link might not display now cause i am out of clicks.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/G-best007/Url-Shortening](https://your-solution-url.com)
+- Live Site URL: [ https://g-best007.github.io/Url-Shortening/](https://your-live-site-url.com)
 
 ## My process
 
